@@ -4,7 +4,6 @@ from torch import nn
 import torch
 import torch.nn.functional as F
 from torch import optim
-import random
 import numpy as np
 
 
